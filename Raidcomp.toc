@@ -1,0 +1,6 @@
+## Interface: 20503
+## Title: Raidcomp.io
+## Notes: A simple raid composition tool - raidcomp.io
+## Version: v0.1.0
+
+main.xml
