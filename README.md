@@ -1,3 +1,3 @@
 # addon
 
-The raidcomp addon, integrating with [raidcomp.io](https://raidcomp.io).
+The official World of Warcraft raidcomp.io addon, integrating with [raidcomp.io](https://raidcomp.io).
